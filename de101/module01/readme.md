@@ -45,3 +45,41 @@
 | Person           | Региональный менеджер             |
 | Returned         | Возвраты товара                   |
 
+### Задание:
+- Использовать Lookup:
+ <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/%D0%92%D0%9F%D0%A0.png" width="400">
+- Построить Сводную таблицу (выполнено в рамках дашборда)
+- Построить примеры отчетов (выполнено в рамках дашборда)
+- Создать дашборд:
+
+#### Дашборд: Overview
+- Total sales, total profit, profit ratio:
+
+ <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Total_Sales_Profit.png" width="400">
+
+- Profit per Order:
+
+
+Данные                     |  График
+:-------------------------:|:-------------------------:
+ | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Profit_per_order.png" width="250"> | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Profit_per_order_chart.png" width="600"> |
+
+- Sales per customer
+
+<img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Sales_per_Customer.png" width="200">
+
+- Avg. Discount
+
+<img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Average_Discount.png" width="200">
+
+- Monthly Sales by Segment
+
+Данные                     |  График
+:-------------------------:|:-------------------------:
+ | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Monthly_Sales_by_Segment.png" width="350"> | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Monthly_Sales_by_Segment_chart.png" width="600"> |
+ 
+ - Monthly Sales by Product Category
+
+Данные                     |  График
+:-------------------------:|:-------------------------:
+ | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Monthly_Sales_by_Category.png" width="350"> | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Monthly_Sales_by_Category_chart.png" width="600"> |
