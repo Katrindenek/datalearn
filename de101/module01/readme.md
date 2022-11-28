@@ -46,8 +46,12 @@
 | Returned         | Возвраты товара                   |
 
 ### Задание:
-- Использовать Lookup:
- <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/%D0%92%D0%9F%D0%A0.png" width="400">
+- Использовать Lookup и другой функционал Excel:
+    - VLOOKUP (ВПР): 
+    <img src="https://github.com/Katrindenek/datalearn/blob/bd81bee6cbafbfaede4647e723fab6b6822bdf82/de101/module01/Pictures/%D0%92%D0%9F%D0%A0.png" width="400">
+    
+    - XLOOKUP (ПРОСМОТРХ): 
+    <img src="https://github.com/Katrindenek/datalearn/blob/bd81bee6cbafbfaede4647e723fab6b6822bdf82/de101/module01/Pictures/%D0%9F%D0%A0%D0%9E%D0%A1%D0%9C%D0%9E%D0%A2%D0%A0%D0%A5.png" width="400">
 - Построить Сводную таблицу (выполнено в рамках дашборда)
 - Построить примеры отчетов (выполнено в рамках дашборда)
 - Создать дашборд:
@@ -83,3 +87,9 @@
 Данные                     |  График
 :-------------------------:|:-------------------------:
  | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Monthly_Sales_by_Category.png" width="350"> | <img src="https://github.com/Katrindenek/datalearn/blob/128f29d386cf3985f24ea9a45f057b8cccd2c310/de101/module01/Pictures/Monthly_Sales_by_Category_chart.png" width="600"> |
+ 
+ - Дополнительно: Returned orders by Manager
+ 
+ Данные                     |  График
+:-------------------------:|:-------------------------:
+ | <img src="https://github.com/Katrindenek/datalearn/blob/bd81bee6cbafbfaede4647e723fab6b6822bdf82/de101/module01/Pictures/Return_Ratio_by_Person.png" width="350"> | <img src="https://github.com/Katrindenek/datalearn/blob/bd81bee6cbafbfaede4647e723fab6b6822bdf82/de101/module01/Pictures/Return_Ratio_by_Person_chart.png" width="400"> |
